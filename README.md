@@ -3,7 +3,7 @@
 **[→ Demo live ausprobieren](https://sebastianhanisch-axelrod-turnier-demo.streamlit.app/)**
 
 Zweites Stück der **Wiederholte-Spiele-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
-Nachfolger von [tit-for-tat-demo](https://sebastianhanisch-tit-for-tat-demo.streamlit.app/): dort ging es um die Frage, ab welchem Diskontfaktor Vergeltung Kooperation trägt,
+Nachfolger von [tit-for-tat-demo](https://sebastianhanisch-tit-for-tat-demo.streamlit.app/): dort ging es um die Frage, ab welchem Diskontfaktor Vergeltung Kooperation stabil hält,
 hier um das **Abschneiden im Feld**: 16 klassische Strategien spielen im wiederholten Gefangenendilemma jeder gegen jeden. Die Kante ist ein `fix`: Stück 1 prüft ein Paar
 exakt, sagt aber nichts darüber, wie eine Strategie gegen eine ganze Gegnermenge abschneidet.
 

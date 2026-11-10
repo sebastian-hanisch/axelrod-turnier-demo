@@ -57,7 +57,7 @@ oder mit einer trainierten Strategie gibt andere Sieger.
 
 Weiter unten: der Abschnitt **❓ Kernfrage**, drei Experimente (**🔬**), **🚧 Wo die Annahmen enden** und der Expander
 **📐 Mathematische Formulierung**. Vorgänger ist [tit-for-tat-demo](https://sebastianhanisch-tit-for-tat-demo.streamlit.app/): dort ging
-es um die Frage, ab wann Vergeltung Kooperation trägt, hier um das Abschneiden im Feld.
+es um die Frage, ab wann Vergeltung Kooperation stabil hält, hier um das Abschneiden im Feld.
 """
 )
 
